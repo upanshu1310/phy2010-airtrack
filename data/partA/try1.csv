@@ -1,0 +1,9 @@
+Latest: Time (s),Latest: Volume (mL),Latest: GateState 1,Latest: Distance 1 (m),Latest: Velocity 1 (m/s),Latest: Acceleration 1 (m/s²),Latest: GateState 2,Latest: Distance 2 (m),Latest: Velocity 2 (m/s),Latest: Acceleration 2 (m/s²),,,,,,
+8.825735,,1,0,,,,,,,,,,,,
+8.937442,,0,,,,,,,,,,,,0.111707,0.17903981
+9.05666,,1,0.05,,,,,,,,,,,0.110444,0.181087248
+9.167104,,0,,,,,,,,,,,,0.105041,0.190401843
+10.612705,,,,,,1,0,,,,,,,0.107673,0.185747588
+10.717746,,,,,,0,,,,,,,,,
+10.842719,,,,,,1,0.05,,,,,,,,
+10.950392,,,,,,0,,,,,,,,,

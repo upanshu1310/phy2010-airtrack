@@ -1,0 +1,9 @@
+"Latest: Time (s)","Latest: GateState 1","Latest: Distance 1 (m)","Latest: Velocity 2 (m/s)","Latest: Acceleration 2 (m/s²)","Latest: GateState 2","Latest: Distance 2 (m)","Latest: Velocity 1 (m/s)","Latest: Acceleration 1 (m/s²)"
+2.921258,1,0,,,,,,
+2.932796,0,,,,,,,
+2.945969,1,0.05,,,,,,
+2.956904,0,,,,,,,
+3.090519,,,,,1,0,,
+3.099463,,,,,0,,,
+3.108897,,,,,1,0.05,,
+3.117572,,,,,0,,,

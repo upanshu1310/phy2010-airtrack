@@ -1,0 +1,42 @@
+try1 (elastic)
+m1 - 247.2g (moving)
+m2 - 244.9g (stationary)
+
+try2 (elastic)
+m1 - 247.2g (moving)
+m2 - 344.5g (stationary)
+
+
+try 3,4,5 (elastic) [photo gates closer]
+m1 - 247.2g (moving)
+m2 - 344.5g (stationary)
+
+try 6,7
+m1 - 247.2g (moving)
+m2 - 245g (stationary)
+
+try 8 
+m1 - 347.1g (moving)
+m2 - 245g (stationary)
+
+try 9,10
+m1 - 342g (moving)
+m2 - 250.1g (stationary)
+
+try 11,12
+m1 - 242.1g (moving)
+m2 - 250.1g (stationary)
+
+
+INELASTIC
+try 13,14
+m1 - 211.1g (moving)
+m2 - 206.2g (stationary)
+
+try 15,16
+m1 - 311.2g (moving)
+m2 - 206.2g (stationary)
+
+try 17,18
+m1 - 206.2g (moving)
+m2 - 311.2g (stationary)
